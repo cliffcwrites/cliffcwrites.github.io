@@ -1,2 +1,1 @@
-# cliffcwrites.github.io
-Everything I make. 
+# Hello World
